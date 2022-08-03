@@ -1,5 +1,5 @@
 - 👋 Hi, I’m 
-# Professra Angela
+# Professora Angela
 - 👀 I’m interested in aprender a programar  jogos e documentos eletrônicos
 - 🌱 I’m currently learning  programação java Script
 - 💞️ I’m looking to collaborate on  com os meus alunos para a  aprendizagem na criação de páginas na Web
