@@ -1,8 +1,8 @@
 - 👋 Hi, I’m 
 # Professora Angela
 - 👀 I’m interested in aprender a programar  jogos e documentos eletrônicos
-- 🌱 I’m currently learning  programação java Script
-- 💞️ I’m looking to collaborate on  com os meus alunos para a  aprendizagem na criação de páginas na Web
+- 🌱 I’m currently learning  programação 
+- 💞️ I’m looking to collaborate on  com os meus alunos para a  aprendizagem na criação de páginas html
 - 📫 Para entrar em contato comigo usar o e-mail: angela.bortoli@escola.pr.gov.br
 <!---
 angelabortoli/angelabortoli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
